@@ -1,0 +1,6 @@
+results/
+phishing_sim.log
+__pycache__/
+*.pyc
+.venv/
+venv/
